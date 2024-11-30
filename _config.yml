@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: pages-themes/merlot@v0.2.0
 title: Beyond Data
 description: Experiments and Testing Portfolio
 
