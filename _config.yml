@@ -1,3 +1,4 @@
-# add the following to _config.yml file
-title: Ami Kang
-theme: jekyll-theme-minimal
+theme: minima
+title: Beyond Data
+description: Experiments and Testing Portfolio
+
